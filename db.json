@@ -1,0 +1,99 @@
+{
+  "doctors": [
+    {
+      "name": "Satya Deep",
+      "salary": "4000000",
+      "gender": "Male",
+      "age": "26",
+      "specialization": "cardio",
+      "id": 1
+    },
+    {
+      "name": "Teja",
+      "salary": "7000000",
+      "gender": "Male",
+      "age": "26",
+      "specialization": "Muscles",
+      "id": 2
+    },
+    {
+      "name": "Sam",
+      "salary": "4000000",
+      "gender": "Male",
+      "age": "26",
+      "specialization": "Bones",
+      "id": 3
+    },
+    {
+      "name": "Anu",
+      "salary": "7000000",
+      "gender": "Male",
+      "age": "26",
+      "specialization": "Blood Pressure",
+      "id": 4
+    },
+    {
+      "name": "manu",
+      "salary": "1000000",
+      "gender": "male",
+      "age": "50",
+      "specialization": "bones specialist",
+      "id": 5
+    },
+    {
+      "name": "cherry",
+      "salary": "1000000",
+      "gender": "male",
+      "age": "50",
+      "specialization": "eyes",
+      "id": 6
+    }
+  ],
+  "patients": [
+    {
+      "name": "Vilok Sai",
+      "weight": "80",
+      "gender": "male",
+      "age": "21",
+      "disease": "Jaundice",
+      "doctor": "Anu",
+      "id": 1
+    },
+    {
+      "name": "cherry",
+      "weight": "40",
+      "gender": "male",
+      "age": "25",
+      "disease": "body pains",
+      "doctor": "Teja",
+      "id": 2
+    },
+    {
+      "name": "kiran",
+      "weight": "60",
+      "gender": "male",
+      "age": "25",
+      "disease": "body pains",
+      "doctor": "Teja",
+      "id": 3
+    },
+    {
+      "name": "kiran",
+      "weight": "60",
+      "gender": "male",
+      "age": "25",
+      "disease": "body pains",
+      "doctor": "",
+      "id": 5
+    },
+    {
+      "name": "sameer",
+      "weight": "60",
+      "gender": "male",
+      "age": "25",
+      "disease": "hairfall",
+      "doctor": "Satya Deep",
+      "id": 6
+    }
+  ]
+}
